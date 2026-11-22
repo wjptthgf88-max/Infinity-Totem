@@ -1,0 +1,9 @@
+name: InfinityTotem
+version: 1.0
+main: de.shadowsmp.totem.InfinityTotem
+api-version: '1.21'
+commands:
+  infinitytotem:
+    description: Gibt dir oder einem Spieler das Infinity Totem
+    aliases: [itotem]
+    permission: infinitytotem.give
